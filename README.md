@@ -1,2 +1,2 @@
-# Veri_Yap-lar-_ve-_Algoritmalar-
+# Veri_Yapilari_ve_Algoritmalar-
 Insertion_Sort
